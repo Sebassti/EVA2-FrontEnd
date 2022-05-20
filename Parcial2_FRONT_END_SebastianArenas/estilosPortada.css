@@ -1,0 +1,38 @@
+a:hover{
+    background-color: grey;
+    text-transform: uppercase;
+}
+
+a {
+    font-size: x-large;
+    
+}
+
+.titulos{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+}
+
+.titulos:hover{
+    text-decoration: double;
+    background-color: gray;
+}
+
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+}
+
+footer{
+    background-color: grey;
+    text-align: center;    
+}
+
+p2{
+    font-size: 30px;
+}
+
+p2:hover{
+    background-color: red;
+}
+

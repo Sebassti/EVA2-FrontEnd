@@ -1,0 +1,18 @@
+a:hover{
+    background-color: grey;
+    text-transform: uppercase;
+}
+
+a {
+    font-size: x-large;
+    
+}
+
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.titulos{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+}
